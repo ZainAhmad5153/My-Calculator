@@ -1,4 +1,6 @@
 cout<<"M.Zain Ahmad";
 cout<<"2023-BT-SE-06";
 
+cout << "The product of " << a << " and " << b << " is " << (a * b) << endl;
 cout << "The division of " << a << " and " << b << " is: " << (float)a/b << endl;
+
